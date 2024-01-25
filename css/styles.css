@@ -707,6 +707,13 @@ img {
     width: 453px;
 }
 
+.footer-subscribe-title {
+    color: var(--white);
+    margin-bottom: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
 
 .btn-menu:hover,
 .btn-menu:focus {
