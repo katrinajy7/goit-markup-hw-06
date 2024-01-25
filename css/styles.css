@@ -737,11 +737,17 @@ img {
 
 }
 
+
 .subscribe-input-email::placeholder {
     color: var(--white);
 }
 
+.footer-subscribe-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
 
 .btn-menu:hover,
 .btn-menu:focus {
