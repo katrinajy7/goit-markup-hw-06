@@ -818,6 +818,11 @@ img {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.input-data:focus+.input-icon {
+    fill: #4D5AE5;
+}
+
+
 .btn-menu:hover,
 .btn-menu:focus {
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 2px 1px rgba(0, 0, 0, 0.08),
