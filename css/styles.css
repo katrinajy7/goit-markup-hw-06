@@ -763,7 +763,7 @@ img {
     margin-left: 16px;
 }
 
-.backdrop {
+.modal-window is-hidden {
     padding: (72px 24px 24px 24px);
 }
 
